@@ -1,2 +1,2 @@
-# 2048Mx.github.io
+# 2048MX
 Organization
